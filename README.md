@@ -18,6 +18,8 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 * Mongoose
 * Dotenv
 * Heroku
+* MongoDB Atlas
+* MongoDB Compass
 
 
 # Heroku
