@@ -19,6 +19,10 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 * Dotenv
 * Heroku
 
+
+# Heroku
+- [Heroku Deployment](https://googlebooks-mcx.herokuapp.com/)
+
 # Snapshot
 
 <img width="400" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/Challenge-Module21-BC/main/media/homepage.png">
@@ -43,9 +47,6 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 * Run "npm start" for the port to start listening with mongoose.
 * This app is deployed on Heroku
 
-
-# Heroku
-- [Heroku Deployment](https://googlebooks-mcx.herokuapp.com/)
 
 # License
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
