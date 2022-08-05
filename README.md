@@ -103,5 +103,4 @@ Your app is ready to be deployed!
 ## Please contact me:
   * [My GitHub Profile](https://github.com/Mcnoor/)
   * [My Github Project Repository](https://github.com/Mcnoor/Challenge-Module21-BC)
-  * [My Github Deployed IO]()
   * Email us at: [maxanoor](mailto:maxanoor@gmail.com.com) with questions or make an issue about this project.
