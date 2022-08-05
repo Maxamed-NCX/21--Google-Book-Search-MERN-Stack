@@ -20,8 +20,10 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 * Heroku
 
 # Snapshot
-[![Book Search](https://raw.githubusercontent.com/Mcnoor/Challenge-Module21-BC/main/media/homepage.png)
-[![Book Saved](https://raw.githubusercontent.com/Mcnoor/Challenge-Module21-BC/main/media/saved.png)
+
+<img width="400" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/Challenge-Module21-BC/main/media/homepage.png">
+<img width="400" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/Challenge-Module21-BC/main/media/saved.png">
+
 
 # Table of Contents 
 * [Summary](#Summary)
