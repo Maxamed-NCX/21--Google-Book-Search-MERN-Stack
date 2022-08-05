@@ -62,6 +62,7 @@ npm install apollo-server-express@2.15.0
 npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
+npm run develop on local machince
 
 The page will reload if you make edits.
 You will also see any errors in the console.
